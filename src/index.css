@@ -1081,7 +1081,7 @@ p {
 a {
   color: var(--cl-anchor-color, #0b8484);
   font-weight: var(--cl-anchor-font-weight, 500);
-  text-decoration: var(--cl-anchor-text-decoration, none);
+  /* text-decoration: var(--cl-anchor-text-decoration, none); */
 }
 
 .high-contrast a {

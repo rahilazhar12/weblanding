@@ -94,7 +94,7 @@ const Cards = () => {
 
   return (
     <>
-      <div className="sc-gPEVay ejqFgl mt-32">
+      <div className="sc-gPEVay ejqFgl mt-32 md:px-32 mb-20">
         <div className="sc-iRbamj chKZTL">
           <ul className="sc-cMljjf fGnogu">
             <li className="sc-jAaTju ihchcE">

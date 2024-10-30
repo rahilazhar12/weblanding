@@ -107,7 +107,7 @@ const App = () => {
 
       <Cards />
 
-      <div className="flex flex-col md:flex-row items-center h-auto ">
+      <div className="flex flex-col md:flex-row items-center h-auto">
         {/* Left Section */}
         <div className="flex-1 flex flex-col justify-center items-center bg-teal-700 text-white p-10 h-96">
           <div className="text-center max-w-xs">
@@ -123,7 +123,7 @@ const App = () => {
         </div>
 
         {/* Divider with OR */}
-        <div className="relative w-full md:w-auto h-16 md:h-auto flex items-center justify-center">
+        <div className="relative w-full md:w-auto  md:h-auto flex items-center justify-center">
           <div className="absolute flex items-center justify-center bg-white rounded-full w-12 h-12 font-bold text-gray-500 border-4 border-white -top-4 md:top-auto md:left-1/2 transform md:-translate-x-1/2">
             OR
           </div>
@@ -145,7 +145,7 @@ const App = () => {
       </div>
 
       {/* ------------------------------------------------------------------------------------------------------- */}
-      <div className="py-5 bg-white text-center">
+      <div className=" bg-white text-center md:py-20">
         <h2 className="text-3xl font-bold mb-4">
           Globally Recognized Certifications
         </h2>
